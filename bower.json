@@ -1,0 +1,21 @@
+{
+  "name": "libLink",
+  "version": "e6a1ddf4bd",
+  "description": "Library for binding jQuery elements to plugins",
+  "homepage": "https://github.com/leongersen/libLink",
+  "author": {
+		"name": "Leon Gersen"
+  },
+  "main": "jquery.liblink.js",
+	"dependencies": {
+	"jquery": ">= 1.7.0"
+  } ,
+  "keywords": [
+    "liblink"
+  ],
+  "license": "http://www.wtfpl.net/about/",
+  "ignore": [
+    "**/.*",
+    "**/*.json"
+  ]
+}
